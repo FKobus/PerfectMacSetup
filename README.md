@@ -37,6 +37,7 @@ curl -L https://get.oh-my.fish | fish
 
 > **&lt;code like a pro&gt;**<br>
  I'm using fish with oh-my-fish and my own [feest](https://github.com/FKobus/theme-feest) theme. Install is super easy and can be done with one command: `omf install https://github.com/FKobus/theme-feest`<br>
+ `omf theme feest`<br>
  **&lt;/code like a pro&gt;**<br>
 
 ### Spectacle
@@ -47,4 +48,27 @@ https://www.spectacleapp.com/
 Do you develop with headphones? Then this is a must have!
 https://beardedspice.github.io/
 
+### VS Code
+https://code.visualstudio.com/
+
+### Docker
+https://store.docker.com/editions/community/docker-ce-desktop-mac
+(I'm using edge)
+
+### KeePassX
+https://www.keepassx.org/
+
+### Sequel Pro
+https://www.sequelpro.com/
+
+### Slack
+https://slack.com/
+
+## Tweaking your mac
+After installing the necessary applications it't time to tweak your mac.
+
+### Changing the hostname
+```
+sudo scutil --set HostName <HOSTNAME>
+```
 
